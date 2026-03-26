@@ -1,0 +1,5 @@
+C:\kamildusek\csharp\tray\MyTrayApp\bin\Release\net10.0-windows\publish\MyTrayApp.exe
+C:\kamildusek\csharp\tray\MyTrayApp\bin\Release\net10.0-windows\publish\MyTrayApp.dll
+C:\kamildusek\csharp\tray\MyTrayApp\bin\Release\net10.0-windows\publish\MyTrayApp.deps.json
+C:\kamildusek\csharp\tray\MyTrayApp\bin\Release\net10.0-windows\publish\MyTrayApp.runtimeconfig.json
+C:\kamildusek\csharp\tray\MyTrayApp\bin\Release\net10.0-windows\publish\MyTrayApp.pdb
